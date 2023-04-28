@@ -19,3 +19,5 @@ Route::get('/', function () {
 
 
 Route::view('/bluuweb/navbar','bluuweb.navbar');
+
+Route::view('/bluuweb/animation','bluuweb.animation');
